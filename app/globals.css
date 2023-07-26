@@ -11,6 +11,7 @@
   font-family: "Manrope", sans-serif;
 }
 
+/* START: General styles */
 .max-width {
   @apply max-w-[1440px] mx-auto;
 }
@@ -215,3 +216,4 @@
 .search-manufacturer__option {
   @apply cursor-default select-none py-2 pl-10 pr-4;
 }
+/* END: search manufacturer styles */

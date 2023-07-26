@@ -43,10 +43,10 @@ const Footer = () => {
         <p>&copy; 2023 CarHub. All rights reserved</p>
 
         <div className="footer__copyrights-link">
-          <Link className="text-gray-500" href="/terms">
+          <Link className="text-gray-500" href="/">
             Privacy & Policy
           </Link>
-          <Link className="text-gray-500" href="/terms">
+          <Link className="text-gray-500" href="/">
             Terms & Conditions
           </Link>
         </div>
